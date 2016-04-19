@@ -5,5 +5,8 @@ package Camunda_Training.JUnit_Test;
  */
 public class InMemoryH2Test {
 
+	public static void main(String[] args){
+		System.out.println("TEST");
+	}
 
 }
